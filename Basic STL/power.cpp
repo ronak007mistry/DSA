@@ -21,7 +21,7 @@ int calc_pow(int a, int n) {
 
 int main() {
 
-	cout << calc_pow(2, 4) << endl;
+	cout << calc_pow(5, 5) << endl;
 
 	return 0;
 
